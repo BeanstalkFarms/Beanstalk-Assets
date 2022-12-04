@@ -1,6 +1,6 @@
-# Beanstalk Design Assets
+# Beanstalk Brand Assets
 
-This repo consists of the various Beanstalk design assets:
+This repo consists of the various Beanstalk brand assets:
 
 1. BEAN ERC-20 token: [0xBEA0000029AD1c77D3d5D23Ba2D8893dB9d1Efab](https://etherscan.io/token/0xBEA0000029AD1c77D3d5D23Ba2D8893dB9d1Efab)
 2. BEAN3CRV ERC-20 token: [0xc9C32cd16Bf7eFB85Ff14e0c8603cc90F6F2eE49](https://etherscan.io/token/0xc9C32cd16Bf7eFB85Ff14e0c8603cc90F6F2eE49)
