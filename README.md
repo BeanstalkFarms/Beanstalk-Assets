@@ -1,6 +1,6 @@
 # Beanstalk Brand Assets
 
-This repo consists of the various Beanstalk brand assets. See the [Farmers' Almanac](https://docs.bean.money/almanac/protocol/contracts) for a complete list of contract addresses.
+This repo consists of various Beanstalk brand assets. See the [Farmers' Almanac](https://docs.bean.money/almanac/protocol/contracts) for a complete list of contract addresses.
 
 * [BEAN ERC-20 Token](/BEAN)
 * [BEAN3CRV ERC-20 Token](/BEAN3CRV)
