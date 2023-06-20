@@ -10,3 +10,4 @@ This repo consists of various Beanstalk brand assets. See the [Farmers' Almanac]
 * [Pipeline Contract](/pipeline)
 * [Farm Backgrounds](/farm)
 * [Bot Icons](/bots)
+* [Basin](/basin)
